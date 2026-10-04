@@ -1,0 +1,10 @@
+{
+  "description": "Showcasing integrated real estate and contracting services in Qatar, this platform offers a professional, user-friendly experience for clients seeking reliable property solutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
